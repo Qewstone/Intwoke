@@ -1,0 +1,27 @@
+{
+  "name": "intwoke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^1.30.0",
+    "config.json": "^0.0.4",
+    "discord": "^0.8.2",
+    "discord.io": "^1.13.4",
+    "discord.js": "^11.3.2",
+    "get-image-colors": "^1.8.1",
+    "moment": "^2.22.0",
+    "moment-duration-format": "^2.2.2",
+    "package.json": "^2.0.1",
+    "querystring": "^0.2.0",
+    "request": "^2.85.0",
+    "rgbcolor": "^1.0.1",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Qewstone",
+  "license": "ISC"
+}

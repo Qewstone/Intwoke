@@ -1,0 +1,7 @@
+{
+  "email":"discord email",
+  "password":"discord password",
+  "interval":"message or number of sec",
+  "role":"role name ie. rainbow",
+  "server":"server name ie. Discord Bots"
+}
