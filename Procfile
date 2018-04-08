@@ -1,1 +1,1 @@
-worker: node index.set.colot.js
+worker: node index.js
